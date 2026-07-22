@@ -1,6 +1,6 @@
 # Hi, I'm Jocelyn 👋
 
-I'm Zhibing "Jocelyn" Fu — a product manager who likes building things, especially at the messy early stage when nobody's quite sure what the product should be yet.
+I'm Jocelyn — a product manager who likes building things, especially at the messy early stage when nobody's quite sure what the product should be yet.
 
 These days I'm a Staff PM at [Webflow](webflow/README.md), where I work on AI products — I proposed and launched Webflow's first AI site generator and its first conversational AI agent. Before that I spent time at [Square](square/README.md) doing growth and monetization, at Google working on [Stadia](google-stadia/README.md) and Google Maps, and at [McKinsey](mckinsey/README.md) as a business analyst.
 
@@ -29,7 +29,7 @@ I've always built things on the side — it's how I stay close to what's actuall
 - **iOffer** (2025–2026) — an AI web app that helps international students figure out their best-fit US colleges. It analyzes a student's profile and recommends a school list (reach / fit / safety) with personalized action items. Built over a few weekends with Claude. It's free on purpose — the whole point is access for students who don't have insider info. 400+ organic users in the first two months.
 - **Crowdcore** (2024) — worked on early concepts with the founder.
 - **Smart home tinkering** — built smart home devices as a 20% project during my Google days.
-- **The Harvard Shop** — ran an online store for Harvard gear in college as an early Shopify + Vend user. Learned e-commerce and photography completely from scratch — my first taste of running a funnel.
+- **The Harvard Shop** — ran an online store (separate from the Harvard Coop official store) for Harvard gear in college as an early Shopify + Vend user. Learned e-commerce and photography completely from scratch — my first taste of running a funnel. Reached $100k online revenue a year!
 
 ## Outside of work
 
